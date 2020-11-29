@@ -21,6 +21,8 @@ This playbook presume you have the following resource :
 3. Add to sshd AllowGroups the user "barman" and "postgres" 
 ```
 
+**Reference configuration for M5.xlarge instance**
+
 ## Architecture ##
 
 ### Scenario 1 -- Barman dedicated server
