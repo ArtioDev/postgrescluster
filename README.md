@@ -37,7 +37,7 @@ NB: In this scenario rembember to define "dedicated_barman" variable on site yam
 ## Streaming Replica and Autofailover ##
 
 In order to manage the cluster replica and autofailover between primary and replica server, the following tools will be installed with ansible playbooks:
-
+ 
 ```
 Repmgr: A open source tool for managing replication and failover from 2ndquadrant. (https://repmgr.org)
 Keepalived: A open source tool for managing virutal IP. (https://www.keepalived.org)
