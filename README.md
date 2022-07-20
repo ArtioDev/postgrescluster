@@ -19,6 +19,7 @@ This playbook presume you have the following resource  :
 1. 3 Dedicated instances master, standby, backup server
 2. Bastion host ssh connected to the other instances of the cluster with Ansible 2.7.x / 2.8
 3. Add to sshd AllowGroups the user "barman" and "postgres" 
+4. TEST
 ```
 
 **Reference configuration for M5.xlarge instance**
