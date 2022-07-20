@@ -14,7 +14,7 @@ This features are covered by the cluster:
 
 ## Prerequisites  ##
 
-This playbook presume you have the following resource :
+This playbook presume you have the following resource  :
 ```
 1. 3 Dedicated instances master, standby, backup server
 2. Bastion host ssh connected to the other instances of the cluster with Ansible 2.7.x / 2.8
